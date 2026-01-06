@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/2667eeed-36a3-480a-bea5-702ce3186278
+
 # parkingbot (Jetson Xavier + RealSense + TurtleBot3)
 
 ## 1. 프로젝트 개요
